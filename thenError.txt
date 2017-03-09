@@ -1,0 +1,8 @@
+program A
+
+begin
+
+if f
+read ( a, b )
+
+end

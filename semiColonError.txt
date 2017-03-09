@@ -1,0 +1,11 @@
+program A
+
+begin
+
+if f
+then read ( a, b )
+
+if w
+then write( c, d)
+
+end

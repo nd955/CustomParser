@@ -1,0 +1,7 @@
+program A
+
+begin
+
+f
+
+end
